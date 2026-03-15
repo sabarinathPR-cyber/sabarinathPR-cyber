@@ -1,5 +1,7 @@
 # Hi 👋 I'm Sabarinath
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Student;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Projects)](https://git.io/typing-svg)# 
+
 Final Year Artificial Intelligence & Machine Learning Student  
 East West Institute of Technology  
 
@@ -28,6 +30,9 @@ https://www.linkedin.com/in/sabarinath-p-r-636b80333
 ## GitHub Stats
 
 ![Sabarinath's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabarinathPR-cyber&show_icons=true&theme=tokyonight)
+## GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sabarinathPR-cyber&theme=tokyonight)
 
 ## Technologies
 
@@ -44,3 +49,11 @@ https://www.linkedin.com/in/sabarinath-p-r-636b80333
 - Titanic Survival Prediction
 - Spam Email Classifier
 - Salary Prediction Model
+
+- ## Featured Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathPR-cyber&repo=autism-detection-ml&theme=tokyonight)](https://github.com/sabarinathPR-cyber/autism-detection-ml)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathPR-cyber&repo=iris-classification-ml&theme=tokyonight)](https://github.com/sabarinathPR-cyber/iris-classification-ml)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sabarinathPR-cyber&repo=titanic-survival-prediction&theme=tokyonight)](https://github.com/sabarinathPR-cyber/titanic-survival-prediction)
