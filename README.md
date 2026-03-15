@@ -1,5 +1,4 @@
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Student;Data+Science+Enthusiast;Python+Developer;Machine+Learning+Projects)](https://git.io/typing-svg)# 
+ 
 # Hi 👋 I'm Sabarinath
 
 Final Year Artificial Intelligence & Machine Learning Student  
